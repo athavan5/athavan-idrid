@@ -1,0 +1,20 @@
+# Model checkpoints
+checkpoints_unet_shared/
+*.pth
+*.pt
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Datasets
+data/
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
