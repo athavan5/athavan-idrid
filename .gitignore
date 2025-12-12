@@ -1,0 +1,13 @@
+# model checkpoints
+checkpoints_unet_shared/
+*.pth
+*.pt
+
+# large archives
+*.zip
+
+# (optional) datasets
+data/
+datasets/
+*.tar
+*.gz
